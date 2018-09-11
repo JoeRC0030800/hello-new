@@ -21,7 +21,8 @@ namespace hello_new
 
 
         {
-            MessageBox.show("Hello;
+            MessageBox.Show("Hello " + txtBxName.Text + " And " + txtBxName2.Text);
+               
 
 
 
